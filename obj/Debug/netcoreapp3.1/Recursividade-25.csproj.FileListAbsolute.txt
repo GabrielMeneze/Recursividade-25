@@ -1,0 +1,13 @@
+C:\Users\gabriel\Documents\GitHub\Recursividade-25\bin\Debug\netcoreapp3.1\Recursividade-25.exe
+C:\Users\gabriel\Documents\GitHub\Recursividade-25\bin\Debug\netcoreapp3.1\Recursividade-25.deps.json
+C:\Users\gabriel\Documents\GitHub\Recursividade-25\bin\Debug\netcoreapp3.1\Recursividade-25.runtimeconfig.json
+C:\Users\gabriel\Documents\GitHub\Recursividade-25\bin\Debug\netcoreapp3.1\Recursividade-25.runtimeconfig.dev.json
+C:\Users\gabriel\Documents\GitHub\Recursividade-25\bin\Debug\netcoreapp3.1\Recursividade-25.dll
+C:\Users\gabriel\Documents\GitHub\Recursividade-25\bin\Debug\netcoreapp3.1\Recursividade-25.pdb
+C:\Users\gabriel\Documents\GitHub\Recursividade-25\obj\Debug\netcoreapp3.1\Recursividade-25.csprojAssemblyReference.cache
+C:\Users\gabriel\Documents\GitHub\Recursividade-25\obj\Debug\netcoreapp3.1\Recursividade-25.AssemblyInfoInputs.cache
+C:\Users\gabriel\Documents\GitHub\Recursividade-25\obj\Debug\netcoreapp3.1\Recursividade-25.AssemblyInfo.cs
+C:\Users\gabriel\Documents\GitHub\Recursividade-25\obj\Debug\netcoreapp3.1\Recursividade-25.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Documents\GitHub\Recursividade-25\obj\Debug\netcoreapp3.1\Recursividade-25.dll
+C:\Users\gabriel\Documents\GitHub\Recursividade-25\obj\Debug\netcoreapp3.1\Recursividade-25.pdb
+C:\Users\gabriel\Documents\GitHub\Recursividade-25\obj\Debug\netcoreapp3.1\Recursividade-25.genruntimeconfig.cache
